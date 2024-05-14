@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi 👋 My name is Anton Khoroshavin!
+===================================
 
-<!--
-**akhoroshavin/akhoroshavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manual QA Engineer
+------------------
 
-Here are some ideas to get you started:
+I'm strongly motivated to make an impact to a new, creative and technological products with my QA experience Hard skills: 
+- Functional and non-functional testing 
+- Creating test-keyses and bug-reports 
+- Test-design techniques 
+- DevTools, Postman, Swagger, Git, GitHub, Jira 
+- Agile (Scrum, Kanban), Trello 
+- SQL, HTTP, HTTP API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Kazan, Russia
+*   ✉️  You can contact me at [aakhoroshavin96@gmail.com](mailto:aakhoroshavin96@gmail.com) , tg: @antonkhoroshavin
